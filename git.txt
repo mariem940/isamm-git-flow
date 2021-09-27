@@ -1,0 +1,10 @@
+git init: initialisation du projet en creant un projet .git : creation du point de racine. 
+git add 
+git commit 
+git push 
+git pull 
+git status
+git merge
+git checkout
+git branch 
+
