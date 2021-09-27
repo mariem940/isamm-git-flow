@@ -7,4 +7,9 @@ git status
 git merge
 git checkout
 git branch 
+git log : les commit
+git remote 
+
+
+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 : token
 
