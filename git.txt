@@ -2,7 +2,7 @@ git init: initialisation du projet en creant un projet .git : creation du point 
 git add 
 git commit 
 git push 
-git pull 
+git pull : ay 7aja jdida taatihelik
 git status
 git merge
 git checkout
@@ -12,4 +12,8 @@ git remote
 
 
 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 : token
+
+git branch ma_br 
+git checkout ma_br
+=> git checkout -b ma_br
 
